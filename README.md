@@ -15,6 +15,7 @@ bash build.sh
 ```shell
 # 测试代码
 cd ./example
+./make
 ./test 
 ```
 
